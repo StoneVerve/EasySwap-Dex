@@ -1,0 +1,17 @@
+{
+  "name": "easyswap",
+  "version": "1.0.0",
+  "description": "Toy Dex for swaping ERC20 tokens on ethereum",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dima",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.1"
+  }
+}
